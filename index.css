@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+}
+
+
+.niv{
+    position: sticky;
+    top: 0px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    z-index: 1px;
+}
+
